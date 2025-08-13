@@ -1,0 +1,6 @@
+gradio
+numpy
+opencv-python
+scikit-learn
+pillow
+xgboost
